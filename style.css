@@ -4,6 +4,7 @@ margin: 0;
 
 padding: 0;
 box-sizing: border-box;
+overflow-x: hidden;
 }
 
 
@@ -165,7 +166,7 @@ padding: 0 15px;
     margin-right: 50px;
     color: #fff;
     letter-spacing: 0;
-    background-color: #E33E5A;
+    background-color: #eb0f34;
     
     border: 2px transparent;
     box-shadow: 0 10px 30px rgba(118 ,85 ,225,.3);
@@ -248,7 +249,7 @@ color: black;
     font-size: 15px;
     margin: 10px;
     padding: 20px;
-    width: 200px;
+    width: 300px;
 
     
  }
